@@ -30,9 +30,12 @@ namespace FizzBuzzWeb.Pages
 
         public IActionResult OnPost()
         {
-           output=FizzBuzz.output();
-
-            if (!ModelState.IsValid)
+           
+            if (ModelState.IsValid)
+            {
+                output = FizzBuzz.output();
+            }
+            else if (!ModelState.IsValid)
             {
                 return Page();
             }

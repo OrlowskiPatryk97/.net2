@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Source\\Repos\\.net1\\FizzBuzzWeb.csproj": {}
+    "C:\\Users\\MatAdmin\\Source\\Repos\\.net2\\FizzBuzzWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Source\\Repos\\.net1\\FizzBuzzWeb.csproj": {
+    "C:\\Users\\MatAdmin\\Source\\Repos\\.net2\\FizzBuzzWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Source\\Repos\\.net1\\FizzBuzzWeb.csproj",
+        "projectUniqueName": "C:\\Users\\MatAdmin\\Source\\Repos\\.net2\\FizzBuzzWeb.csproj",
         "projectName": "FizzBuzzWeb",
-        "projectPath": "C:\\Users\\student\\Source\\Repos\\.net1\\FizzBuzzWeb.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Source\\Repos\\.net1\\obj\\",
+        "projectPath": "C:\\Users\\MatAdmin\\Source\\Repos\\.net2\\FizzBuzzWeb.csproj",
+        "packagesPath": "C:\\Users\\MatAdmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MatAdmin\\Source\\Repos\\.net2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MatAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
